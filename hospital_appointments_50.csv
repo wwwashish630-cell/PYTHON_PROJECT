@@ -1,0 +1,51 @@
+appointment_id,patient_id,patient_age,age_group,gender,department,appointment_type,booking_date,appointment_date,weekday,scheduled_time,lead_time_days,sms_reminder_sent,status,check_in_time,consult_start_time,wait_minutes
+A100001,P1751,41,35-49,Female,Ophthalmology,Follow-up,2025-12-22,2026-01-12,Monday,11:00,21,Yes,Cancelled,,,
+A100002,P1805,32,18-34,Male,General Medicine,New,2026-01-07,2026-01-16,Friday,11:30,9,Yes,Completed,11:18,11:36,18.0
+A100003,P1066,15,0-17,Female,Dermatology,Follow-up,2026-01-23,2026-02-02,Monday,11:00,10,Yes,No-Show,,,
+A100004,P1078,61,50-64,Female,General Medicine,Follow-up,2026-01-31,2026-02-06,Friday,09:00,6,Yes,Completed,08:48,09:19,31.0
+A100005,P1818,52,50-64,Female,General Medicine,New,2026-01-23,2026-02-13,Friday,14:00,21,Yes,Completed,13:48,14:03,15.0
+A100006,P2860,26,18-34,Male,Orthopedics,Follow-up,2026-02-10,2026-02-19,Thursday,12:00,9,No,Completed,11:59,12:28,29.0
+A100007,P1848,44,35-49,Female,General Medicine,Follow-up,2026-02-19,2026-02-24,Tuesday,14:00,5,No,Completed,13:51,14:04,13.0
+A100008,P3361,32,18-34,Female,Orthopedics,New,2026-02-11,2026-02-25,Wednesday,14:00,14,Yes,Completed,13:48,13:55,7.0
+A100009,P3119,40,35-49,Female,General Medicine,Follow-up,2026-02-15,2026-02-26,Thursday,08:00,11,Yes,Completed,07:50,07:52,2.0
+A100010,P3829,33,18-34,Male,Dermatology,New,2026-02-18,2026-02-27,Friday,08:00,9,No,No-Show,,,
+A100011,P2946,37,35-49,Female,Orthopedics,Follow-up,2026-03-01,2026-03-17,Tuesday,15:00,16,Yes,Cancelled,,,
+A100012,P3099,40,35-49,Female,Neurology,New,2026-03-25,2026-03-31,Tuesday,15:00,6,Yes,Completed,14:58,15:46,48.0
+A100013,P3050,32,18-34,Female,Radiology,Follow-up,2026-03-29,2026-04-01,Wednesday,09:00,3,No,Completed,08:58,10:14,76.0
+A100014,P2020,56,50-64,Female,General Medicine,Follow-up,2026-03-19,2026-04-06,Monday,14:30,18,Yes,Completed,14:18,15:16,58.0
+A100015,P1506,9,0-17,Female,Radiology,New,2026-04-01,2026-04-07,Tuesday,10:30,6,No,Completed,10:30,10:55,25.0
+A100016,P3705,28,18-34,Male,Orthopedics,New,2026-04-14,2026-04-15,Wednesday,09:30,1,Yes,No-Show,,,
+A100017,P3599,27,18-34,Female,General Medicine,Follow-up,2026-04-12,2026-04-20,Monday,14:30,8,Yes,Completed,14:23,16:04,101.0
+A100018,P1063,84,65+,Female,Radiology,New,2026-04-13,2026-04-29,Wednesday,14:30,16,Yes,Completed,14:26,14:36,10.0
+A100019,P1607,56,50-64,Male,General Medicine,Follow-up,2026-04-09,2026-04-30,Thursday,12:00,21,Yes,Completed,11:53,12:10,17.0
+A100020,P2227,58,50-64,Female,Gynecology,Follow-up,2026-05-14,2026-05-18,Monday,14:30,4,Yes,Completed,14:30,15:03,33.0
+A100021,P3236,20,18-34,Male,ENT,New,2026-05-03,2026-05-20,Wednesday,12:00,17,No,Cancelled,,,
+A100022,P1330,33,18-34,Female,ENT,Follow-up,2026-05-06,2026-05-25,Monday,11:30,19,Yes,Completed,11:17,11:38,21.0
+A100023,P1840,1,0-17,Female,Ophthalmology,New,2026-05-27,2026-05-29,Friday,09:00,2,Yes,Completed,08:52,09:15,23.0
+A100024,P1581,31,18-34,Female,ENT,Follow-up,2026-05-21,2026-06-01,Monday,09:00,11,Yes,Completed,08:48,09:34,46.0
+A100025,P2944,42,35-49,Male,Dermatology,New,2026-05-22,2026-06-01,Monday,11:30,10,Yes,Completed,11:20,11:33,13.0
+A100026,P1540,62,50-64,Female,Orthopedics,Follow-up,2026-05-30,2026-06-02,Tuesday,09:00,3,Yes,Cancelled,,,
+A100027,P2351,64,50-64,Male,Ophthalmology,New,2026-05-21,2026-06-02,Tuesday,09:00,12,Yes,Completed,08:51,09:37,46.0
+A100028,P3020,45,35-49,Female,Cardiology,Follow-up,2026-06-01,2026-06-04,Thursday,10:00,3,Yes,Completed,09:56,10:10,14.0
+A100029,P1565,6,0-17,Female,Pediatrics,New,2026-05-28,2026-06-04,Thursday,14:00,7,Yes,Completed,13:54,13:59,5.0
+A100030,P3297,66,65+,Female,Gynecology,New,2026-06-11,2026-06-18,Thursday,11:00,7,Yes,Completed,10:50,11:15,25.0
+A100031,P2269,49,35-49,Male,Cardiology,Follow-up,2026-06-19,2026-06-24,Wednesday,16:00,5,No,Completed,15:54,16:32,38.0
+A100032,P2733,37,35-49,Female,Cardiology,Follow-up,2026-06-18,2026-06-24,Wednesday,16:30,6,Yes,Completed,16:16,16:33,17.0
+A100033,P3612,28,18-34,Male,ENT,New,2026-06-27,2026-06-30,Tuesday,12:00,3,Yes,Completed,11:53,12:25,32.0
+A100034,P3582,31,18-34,Female,General Medicine,Follow-up,2026-06-21,2026-07-06,Monday,09:30,15,Yes,Completed,09:20,09:36,16.0
+A100035,P2136,50,50-64,Male,General Medicine,New,2026-06-26,2026-07-06,Monday,11:00,10,Yes,Completed,10:58,11:11,13.0
+A100036,P3090,4,0-17,Male,Pediatrics,Follow-up,2026-07-09,2026-07-15,Wednesday,08:30,6,Yes,Completed,08:23,09:02,39.0
+A100037,P1940,32,18-34,Female,Dermatology,Follow-up,2026-06-30,2026-07-15,Wednesday,08:30,15,Yes,Completed,08:17,08:22,5.0
+A100038,P2626,38,35-49,Female,ENT,Follow-up,2026-07-10,2026-07-16,Thursday,08:00,6,Yes,Completed,07:55,08:05,10.0
+A100039,P3483,36,35-49,Male,Dermatology,Follow-up,2026-07-08,2026-07-16,Thursday,09:30,8,Yes,Completed,09:18,09:31,13.0
+A100040,P1567,73,65+,Male,Gynecology,New,2026-06-22,2026-07-21,Tuesday,15:30,29,Yes,Completed,15:29,15:32,3.0
+A100041,P3312,74,65+,Female,Cardiology,Follow-up,2026-07-16,2026-07-23,Thursday,11:30,7,Yes,Completed,11:19,12:48,89.0
+A100042,P1466,53,50-64,Male,General Medicine,New,2026-08-11,2026-08-19,Wednesday,14:00,8,Yes,Completed,13:53,14:03,10.0
+A100043,P1322,9,0-17,Female,Pediatrics,Follow-up,2026-08-22,2026-08-26,Wednesday,09:30,4,Yes,Completed,09:18,09:28,10.0
+A100044,P2276,11,0-17,Male,Pediatrics,Follow-up,2026-08-20,2026-09-02,Wednesday,08:30,13,Yes,Completed,08:17,08:26,9.0
+A100045,P3166,28,18-34,Female,Gynecology,New,2026-09-05,2026-09-07,Monday,12:30,2,Yes,Completed,12:17,12:23,6.0
+A100046,P1234,53,50-64,Female,Dermatology,New,2026-08-16,2026-09-07,Monday,15:30,22,Yes,Completed,15:28,15:37,9.0
+A100047,P3252,42,35-49,Female,Cardiology,Follow-up,2026-09-04,2026-09-11,Friday,12:00,7,No,Completed,11:50,12:08,18.0
+A100048,P2288,62,50-64,Male,General Medicine,New,2026-08-31,2026-09-15,Tuesday,11:30,15,Yes,Completed,11:16,11:36,20.0
+A100049,P1704,17,0-17,Female,General Medicine,Follow-up,2026-09-09,2026-09-17,Thursday,08:00,8,No,Completed,07:56,08:15,19.0
+A100050,P3789,47,35-49,Female,ENT,New,2026-09-19,2026-09-25,Friday,10:00,6,Yes,Completed,09:50,10:24,34.0
